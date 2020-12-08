@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ZendaInnocent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZendaInnocent&layout=compact)](https://github.com/ZendaInnocent/github-readme-stats)
 
 [![Innocent's github stats](https://github-readme-stats.vercel.app/api?username=ZendaInnocent)](https://github.com/ZendaInnocent/github-readme-stats)
