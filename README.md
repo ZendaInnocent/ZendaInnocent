@@ -7,8 +7,8 @@
 [![Innocent's github stats](https://github-readme-stats.vercel.app/api?username=ZendaInnocent)](https://github.com/ZendaInnocent/github-readme-stats)
 
 
-- 🔭 I’m currently working on integration of mobile payments
-- 🌱 I’m currently learning Python Packaging
+- 🔭 I’m currently working on Open Source Projects collaborations
+- 🌱 I’m currently learning creating installers using Python
 - 👯 I’m looking to collaborate on cool open source projects
 - 🤔 I’m looking for help with testing
 - 💬 Ask me about Python, Django
