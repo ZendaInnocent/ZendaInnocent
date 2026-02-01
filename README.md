@@ -9,8 +9,7 @@
 
 - 🔭 I’m currently working on Open Source Projects collaborations
 - 👯 I’m looking to collaborate on cool open source projects
-- 🤔 I’m looking for help with testing (Python, JavaScript/TypeScript)
-- 💬 Ask me about Python (Django, FastAPI), JavaScript/TypeScript (React)
+- 💬 Ask me about Python (Django), JavaScript (DatastarJS)
 - 📫 How to reach me: zendainnocent@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not sure
